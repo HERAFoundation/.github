@@ -1,1 +1,1 @@
-## Sporechain is an open-source, radically decentralized yet unified communal gene bank and a grassroots movement for the collective preservation of Earth's biodiversity.
+## The Sporechain is a radically decentralized, unified communal gene bank for the collective preservation of Earth's biodiversity.
